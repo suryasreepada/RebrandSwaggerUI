@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>3491578b-4d67-4ced-b511-7547bd28f25c</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RebrandSwaggerUI.Core\RebrandSwaggerUI.Core.csproj" />
+    <ProjectReference Include="..\RebrandSwaggerUI.Models\RebrandSwaggerUI.Models.csproj" />
+  </ItemGroup>
+
+
+</Project>
